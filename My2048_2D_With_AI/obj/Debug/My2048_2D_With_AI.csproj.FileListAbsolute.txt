@@ -1,0 +1,21 @@
+C:\Users\benka\source\repos\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.csproj.AssemblyReference.cache
+C:\Users\benka\source\repos\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.csproj.CoreCompileInputs.cache
+C:\Users\benka\source\repos\My2048_2D_With_AI\My2048_2D_With_AI\bin\Debug\My2048_2D_With_AI.exe.config
+C:\Users\benka\source\repos\My2048_2D_With_AI\My2048_2D_With_AI\bin\Debug\My2048_2D_With_AI.exe
+C:\Users\benka\source\repos\My2048_2D_With_AI\My2048_2D_With_AI\bin\Debug\My2048_2D_With_AI.pdb
+C:\Users\benka\source\repos\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.exe
+C:\Users\benka\source\repos\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.pdb
+E:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\bin\Debug\My2048_2D_With_AI.exe.config
+E:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\bin\Debug\My2048_2D_With_AI.exe
+E:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\bin\Debug\My2048_2D_With_AI.pdb
+E:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.csprojAssemblyReference.cache
+E:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.csproj.CoreCompileInputs.cache
+E:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.exe
+E:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.pdb
+G:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\bin\Debug\My2048_2D_With_AI.exe.config
+G:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\bin\Debug\My2048_2D_With_AI.exe
+G:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\bin\Debug\My2048_2D_With_AI.pdb
+G:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.csproj.AssemblyReference.cache
+G:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.csproj.CoreCompileInputs.cache
+G:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.exe
+G:\C# code\My2048_2D_With_AI\My2048_2D_With_AI\obj\Debug\My2048_2D_With_AI.pdb
