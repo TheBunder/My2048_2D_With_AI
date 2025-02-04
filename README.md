@@ -1,6 +1,6 @@
 # My2048_2D_With_AI
 
-This repository contains My2048_2D_With_AI, a continuation of my previous 2048 game project (https://github.com/TheBunder/my2048_2D). This version incorporates a game-solving algorithm using the minimax approach, allowing the game to play itself.  This enhancement was inspired by a suggestion from my father, which led me to learn about recursion and implement it in this project.  I was even invited to present this implementation to my class.
+This repository contains My2048_2D_With_AI, a continuation of my previous 2048 game project ([https://github.com/TheBunder/my2048_2D]). This version incorporates a game-solving algorithm using the minimax approach, allowing the game to play itself.  This enhancement was inspired by a suggestion from my father, which led me to learn about recursion and implement it in this project.  I was even invited to present this implementation to my class.
 
 ## About the Project
 
